@@ -79,4 +79,5 @@ public class Calculator {
 		return (num1 % num2);
 	}
 
+	// this is the file with methods that will calculate the values
 }
